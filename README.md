@@ -27,7 +27,7 @@ This project provides a clean and user-friendly website for a logistics business
 
 ## 🌐 Live Website
 
-👉 Add the live website link here
+https://fairmileslogistics.pages.dev/
 
 ## 💼 Developed By
 
